@@ -1,1 +1,2 @@
 Genova.heic filter=lfs diff=lfs merge=lfs -text
+*.heic filter=lfs diff=lfs merge=lfs -text
